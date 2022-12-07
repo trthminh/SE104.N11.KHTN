@@ -1,0 +1,14 @@
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\bin\Debug\danhsachmonhoc_mo.exe.config
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\bin\Debug\danhsachmonhoc_mo.exe
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\bin\Debug\danhsachmonhoc_mo.pdb
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.csproj.AssemblyReference.cache
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.csproj.SuggestedBindingRedirects.cache
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.Form1.resources
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.Properties.Resources.resources
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.csproj.GenerateResource.cache
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.csproj.CoreCompileInputs.cache
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.exe
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.pdb
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.Form2.resources
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.Form3.resources
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc_mo\danhsachmonhoc_mo\obj\Debug\danhsachmonhoc_mo.Form4.resources

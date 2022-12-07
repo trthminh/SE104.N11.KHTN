@@ -1,0 +1,13 @@
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\bin\Debug\chuongtrinhhoc.exe.config
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\bin\Debug\chuongtrinhhoc.exe
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\bin\Debug\chuongtrinhhoc.pdb
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.csproj.AssemblyReference.cache
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.csproj.SuggestedBindingRedirects.cache
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.CTHoc.resources
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.Properties.Resources.resources
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.csproj.GenerateResource.cache
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.csproj.CoreCompileInputs.cache
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.exe
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.pdb
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.Form2.resources
+F:\UIT\HK3\nhapmoncnpm\C#\chuongtrinhhoc\chuongtrinhhoc\obj\Debug\chuongtrinhhoc.Form4.resources

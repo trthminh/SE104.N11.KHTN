@@ -1,0 +1,13 @@
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\bin\Debug\danhsachmonhoc.exe.config
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\bin\Debug\danhsachmonhoc.exe
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\bin\Debug\danhsachmonhoc.pdb
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.csproj.AssemblyReference.cache
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.csproj.SuggestedBindingRedirects.cache
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.Form1.resources
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.Form2.resources
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.Properties.Resources.resources
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.csproj.GenerateResource.cache
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.csproj.CoreCompileInputs.cache
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.exe
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.pdb
+F:\UIT\HK3\nhapmoncnpm\C#\danhsachmonhoc\danhsachmonhoc\obj\Debug\danhsachmonhoc.Form3.resources
