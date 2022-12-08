@@ -12,10 +12,10 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace danhsachmonhoc
 {
-    public partial class Form1 : Form
+    public partial class Form_main_delete : Form
     {
         string connectionString = @"Data Source=minh\minhtt;Initial Catalog=DKMHandTHUHP;Integrated Security=True;";
-        public Form1()
+        public Form_main_delete()
         {
             InitializeComponent();
         }
@@ -77,7 +77,7 @@ namespace danhsachmonhoc
                 manganh = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["MaNganh"].Value);
                 makhoa = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["MaKhoa"].Value);
 
-                Form2 form_update = new Form2(mamh, tenmh, loaitinchi, sotiet, manganh, makhoa);
+                Form_update form_update = new Form_update(mamh, tenmh, loaitinchi, sotiet, manganh, makhoa);
                 form_update.ShowDialog();
                 load_data();
             }
@@ -90,7 +90,7 @@ namespace danhsachmonhoc
 
         private void button_themdsmh_Click(object sender, EventArgs e)
         {
-            Form3 form_insert = new Form3();
+            Form_insert form_insert = new Form_insert();
             form_insert.ShowDialog();
             load_data();
 

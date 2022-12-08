@@ -12,10 +12,10 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace danhsachmonhoc
 {
-    public partial class Form3 : Form
+    public partial class Form_insert : Form
     {
         string connectionString = @"Data Source=minh\minhtt;Initial Catalog=DKMHandTHUHP;Integrated Security=True;";
-        public Form3()
+        public Form_insert()
         {
             InitializeComponent();
         }

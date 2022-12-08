@@ -1,6 +1,6 @@
 ﻿namespace danhsachmonhoc
 {
-    partial class Form2
+    partial class Form_update
     {
         /// <summary>
         /// Required designer variable.

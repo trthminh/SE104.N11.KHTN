@@ -12,7 +12,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace danhsachmonhoc
 {
-    public partial class Form2 : Form
+    public partial class Form_update : Form
     {
         string connectionString = @"Data Source=minh\minhtt;Initial Catalog=DKMHandTHUHP;Integrated Security=True";
         string MaMH1, TenMH1, LoaiTinChi1, SoTiet1, MaNganh1, MaKhoa1;
@@ -52,7 +52,7 @@ namespace danhsachmonhoc
             }
         }
 
-        public Form2(string MaMH, string TenMH, string LoaiTinChi, string SoTiet, string MaNganh, string MaKhoa)
+        public Form_update(string MaMH, string TenMH, string LoaiTinChi, string SoTiet, string MaNganh, string MaKhoa)
         {
             InitializeComponent();
             MaMH1 = MaMH;
