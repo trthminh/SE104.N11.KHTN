@@ -1,6 +1,6 @@
 ﻿namespace chuongtrinhhoc
 {
-    partial class Form4
+    partial class Form_update
     {
         /// <summary>
         /// Required designer variable.

@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace chuongtrinhhoc
 {
-    public partial class Form4 : Form
+    public partial class Form_update : Form
     {
         string connectionString = @"Data Source=minh\minhtt;Initial Catalog=DKMHandTHUHP;Integrated Security=True";
 
@@ -62,7 +62,7 @@ namespace chuongtrinhhoc
             comboBox_upd_mamh.SelectedText= MaMH1;
             //comboBox_upd_mamh.SelectedItem = MaMH1;
         }
-        public Form4(string HocKy, string Nam, string MaMH, string MaNganh, string MaKhoa, string GhiChu)
+        public Form_update(string HocKy, string Nam, string MaMH, string MaNganh, string MaKhoa, string GhiChu)
         {
             InitializeComponent();
             MaNganh1 = MaNganh;

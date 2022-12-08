@@ -11,10 +11,10 @@ using System.Data.SqlClient;
 
 namespace chuongtrinhhoc
 {
-    public partial class Form2 : Form
+    public partial class Form_insert : Form
     {
         string connectionString = @"Data Source=minh\minhtt;Initial Catalog=DKMHandTHUHP;Integrated Security=True;";
-        public Form2()
+        public Form_insert()
         {
             InitializeComponent();
         }

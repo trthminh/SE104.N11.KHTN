@@ -1,6 +1,6 @@
 ﻿namespace chuongtrinhhoc
 {
-    partial class Form2
+    partial class Form_insert
     {
         /// <summary>
         /// Required designer variable.
@@ -202,7 +202,7 @@
             this.comboBox_add_mamh.Size = new System.Drawing.Size(212, 24);
             this.comboBox_add_mamh.TabIndex = 17;
             // 
-            // Form2
+            // Form_insert
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -221,7 +221,7 @@
             this.Controls.Add(this.HocKy);
             this.Controls.Add(this.MaKhoa);
             this.Controls.Add(this.MaNganh);
-            this.Name = "Form2";
+            this.Name = "Form_insert";
             this.Text = "Thêm chương trình học";
             this.ResumeLayout(false);
             this.PerformLayout();

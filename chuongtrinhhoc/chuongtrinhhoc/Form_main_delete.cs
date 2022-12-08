@@ -42,7 +42,7 @@ namespace chuongtrinhhoc
 
         private void button_addcthoc_Click(object sender, EventArgs e)
         {
-            Form2 form_insert = new Form2();
+            Form_insert form_insert = new Form_insert();
             form_insert.ShowDialog();
             load_data();
         }
@@ -90,7 +90,7 @@ namespace chuongtrinhhoc
                 manganh = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["MaNganh"].Value);
                 makhoa = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["MaKhoa"].Value);
 
-                Form4 form_update = new Form4(hocky, nam, mamh, manganh, makhoa, ghichu);
+                Form_update form_update = new Form_update(hocky, nam, mamh, manganh, makhoa, ghichu);
                 form_update.ShowDialog();
                 load_data();
             }    
