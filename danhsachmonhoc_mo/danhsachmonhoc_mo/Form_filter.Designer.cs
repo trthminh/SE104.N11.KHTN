@@ -1,6 +1,6 @@
 ﻿namespace danhsachmonhoc_mo
 {
-    partial class Form3
+    partial class Form_filter
     {
         /// <summary>
         /// Required designer variable.

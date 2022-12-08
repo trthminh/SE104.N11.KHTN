@@ -11,51 +11,51 @@ using System.Windows.Forms;
 
 namespace danhsachmonhoc_mo
 {
-    public partial class Form2 : Form
+    public partial class Form_update : Form
     {
         string connectionString = @"Data Source=minh\minhtt;Initial Catalog=DKMHandTHUHP;Integrated Security=True;";
-        public Form2()
-        {
-            InitializeComponent();
-        }
+        string HocKy, Nam, MaMH;
 
-        private void button_dongthemdsmhmo_Click(object sender, EventArgs e)
+        private void button_ok_Click(object sender, EventArgs e)
         {
-            this.Close();
-        }
-
-        private void button_themdsmhmo_Click(object sender, EventArgs e)
-        {
-            string HocKy, Nam, MaMH;
-            string query = "INSERT INTO DSMH_Mo (HocKy,Nam,MaMH) VALUES (@HocKy, @Nam, @MaMH)";
-
-            HocKy = Convert.ToString(comboBox_chonhocky.SelectedItem);
+            HocKy = Convert.ToString(comboBox_hocky.SelectedItem);
             Nam = Convert.ToString(comboBox_nam.SelectedItem);
-            MaMH = textBox_addmamh.Text;
+            MaMH = textBox_mamh.Text;
 
-            //MessageBox.Show(HocKy + Nam + MaMH);
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
+                string query = "UPDATE DSMH_Mo SET HocKy=@HocKy, Nam=@Nam, MaMH=@MaMH";
                 SqlCommand command = new SqlCommand(query, connection);
                 command.Parameters.AddWithValue("@HocKy", HocKy);
                 command.Parameters.AddWithValue("@Nam", Nam);
                 command.Parameters.AddWithValue("@MaMH", MaMH);
-
                 int result = command.ExecuteNonQuery();
-               
                 if (result > 0)
                 {
-                    MessageBox.Show("Data Inserted Successfull");
+                    MessageBox.Show("Data Updated Successfull");
                     this.Close();
                 }
                 else
                 {
-                    MessageBox.Show("Data not Inserted");
+                    MessageBox.Show("Data not Updated");
                 }
 
                 connection.Close();
             }
+        }
+
+        public Form_update(string hocky1, string nam1, string mamh1)
+        {
+            InitializeComponent();
+            HocKy = hocky1;
+            Nam = nam1;
+            MaMH = mamh1;
+        }
+
+        private void button_thoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace danhsachmonhoc_mo
 {
-    partial class Form2
+    partial class Form_insert
     {
         /// <summary>
         /// Required designer variable.

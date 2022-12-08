@@ -1,6 +1,6 @@
 ﻿namespace danhsachmonhoc_mo
 {
-    partial class Form1
+    partial class Form_main_delete
     {
         /// <summary>
         /// Required designer variable.

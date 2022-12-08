@@ -11,10 +11,10 @@ using System.Data.SqlClient;
 
 namespace danhsachmonhoc_mo
 {
-    public partial class Form1 : Form
+    public partial class Form_main_delete : Form
     {
         string connectionString = @"Data Source=minh\minhtt;Initial Catalog=DKMHandTHUHP;Integrated Security=True;";
-        public Form1()
+        public Form_main_delete()
         {
             InitializeComponent();
             load_data();
@@ -42,7 +42,7 @@ namespace danhsachmonhoc_mo
 
         private void button_themdsmhmo_Click(object sender, EventArgs e)
         {
-            Form2 form_insert_dsmh_mo = new Form2();
+            Form_insert form_insert_dsmh_mo = new Form_insert();
             form_insert_dsmh_mo.Show();
             load_data();
         }
@@ -90,7 +90,7 @@ namespace danhsachmonhoc_mo
                 nam = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["Nam"].Value);
                 mamh = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["MaMH"].Value);
 
-                Form4 form_update = new Form4(hocky, nam, mamh);
+                Form_update form_update = new Form_update(hocky, nam, mamh);
                 form_update.ShowDialog();
                 load_data();
 
@@ -99,7 +99,7 @@ namespace danhsachmonhoc_mo
 
         private void button_chonhockynam_Click(object sender, EventArgs e)
         {
-            Form3 form_filter = new Form3();
+            Form_filter form_filter = new Form_filter();
             form_filter.Show();
             load_data();
         }

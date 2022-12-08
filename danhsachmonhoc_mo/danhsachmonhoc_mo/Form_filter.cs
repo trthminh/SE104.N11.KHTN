@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace danhsachmonhoc_mo
 {
-    public partial class Form3 : Form
+    public partial class Form_filter : Form
     {
-        public Form3()
+        public Form_filter()
         {
             InitializeComponent();
         }
