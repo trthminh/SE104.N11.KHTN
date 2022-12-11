@@ -1,0 +1,13 @@
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\bin\Debug\hocky.exe.config
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\bin\Debug\hocky.exe
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\bin\Debug\hocky.pdb
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.csproj.AssemblyReference.cache
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.csproj.SuggestedBindingRedirects.cache
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.hocky.resources
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.Properties.Resources.resources
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.csproj.GenerateResource.cache
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.csproj.CoreCompileInputs.cache
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.exe
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.pdb
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.form_insert.resources
+F:\UIT\HK3\nhapmoncnpm\C#\hocky\hocky\obj\Debug\hocky.Form_update.resources
