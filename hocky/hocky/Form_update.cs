@@ -75,8 +75,8 @@ namespace hocky
 
         private void button_upd_data_Click(object sender, EventArgs e)
         {
-            HocKy1 = Convert.ToString(comboBox_hocky.SelectedItem);
-            Nam1 = Convert.ToString(comboBox_nam.SelectedItem);
+            HocKy1 = numericUpDown2.Value.ToString();
+            Nam1 = numericUpDown1.Value.ToString();
             NgBatDau1 = textBox_nbd.Text;
             NgKetThuc1 = textBox_ngaykt.Text;
             HanDongHP1 = textBox_hanthuhp.Text;
@@ -108,8 +108,8 @@ namespace hocky
 
         private void Form_update_Load(object sender, EventArgs e)
         {
-            comboBox_hocky.SelectedText = HocKy1;
-            comboBox_nam.SelectedText= Nam1;
+            numericUpDown2.Value = Convert.ToInt64(HocKy1);
+            numericUpDown1.Value= Convert.ToInt64(Nam1);
             textBox_nbd.Text = NgBatDau1;
             textBox_ngaykt.Text = NgKetThuc1;
             textBox_hanthuhp.Text = HanDongHP1;

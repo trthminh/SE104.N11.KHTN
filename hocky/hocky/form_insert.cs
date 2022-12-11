@@ -99,8 +99,10 @@ namespace hocky
             string HocKy, Nam, NgBatDau, NgKetThuc, HanDongHP;
             string query = "INSERT INTO HOCKY (HocKy,Nam,NgBatDau,NgKetThuc, HanDongHP) VALUES (@HocKy, @Nam, @NgBatDau, @NgKetThuc, @HanDongHP)";
 
-            HocKy = Convert.ToString(comboBox_hocky.SelectedItem);
-            Nam = Convert.ToString(comboBox_nam.SelectedItem);
+            //HocKy = Convert.ToString(comboBox_hocky.SelectedItem);
+            //Nam = Convert.ToString(comboBox_nam.SelectedItem);
+            HocKy = numericUpDown2.Value.ToString();
+            Nam = numericUpDown1.Value.ToString();
             NgBatDau = textBox_nbd.Text;
             NgKetThuc = textBox_ngaykt.Text;
             HanDongHP = textBox_hanthuhp.Text;
